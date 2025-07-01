@@ -1,0 +1,13 @@
+
+{
+  "name": "raihan-portfolio",
+  "version": "1.0.0",
+  "description": "Md. Raihan Islam's Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
